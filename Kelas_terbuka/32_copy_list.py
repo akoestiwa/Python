@@ -1,0 +1,3 @@
+## Teknik duplikat list
+
+a = [""]
