@@ -1,3 +1,5 @@
+''' ARITMATIKA '''
+
 # Operasi aritmatika
 
 a = 10

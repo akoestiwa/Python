@@ -1,3 +1,5 @@
+''' KOMPARASI '''
+
 # Operasi komparasi
 # <, >, >=, <=, ==, !=, is, is not
 

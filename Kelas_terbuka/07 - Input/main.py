@@ -1,3 +1,5 @@
+''' INPUT '''
+
 # Input user
 
 # data yang dimasukkan pasti string

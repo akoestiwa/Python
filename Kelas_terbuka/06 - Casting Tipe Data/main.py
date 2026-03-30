@@ -1,3 +1,5 @@
+''' CASTING '''
+
 # Casting: mengubah tipe data satu ke tipe data lain
 
 # Integer

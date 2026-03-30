@@ -1,3 +1,5 @@
+''' VARIABEL '''
+
 # variabel adalah tempat menyimpan data
 
 # menaruh/assignment nilai

@@ -1,4 +1,4 @@
-# Latihan konversi temperatur
+''' LATIHAN PERHITUNGAN '''
 
 '''
 # celcius ke lainnya

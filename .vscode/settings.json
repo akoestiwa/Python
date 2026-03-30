@@ -1,6 +1,6 @@
 {
   "window.zoomLevel": 0,
   "editor.fontSize": 13,
-  "workbench.colorTheme": "Visual Studio Dark",
+  "workbench.colorTheme": "VS Code Dark",
   "workbench.iconTheme": "vscode-icons"
 }
